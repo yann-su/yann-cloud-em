@@ -1,0 +1,4 @@
+# Project exclude paths
+/yann-cloud-em-consumer/target/
+/yann-cloud-em-eureka-server/target/
+/yann-cloud-em-provider/target/
