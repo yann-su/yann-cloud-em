@@ -11,6 +11,7 @@
         <module>yann-cloud-em-eureka-server</module>
         <module>yann-cloud-em-provider</module>
         <module>yann-cloud-em-consumer</module>
+        <module>yann-cloud-em-grpc</module>
     </modules>
     <packaging>pom</packaging>
 
